@@ -1,0 +1,17 @@
+body{
+    background-color: lightskyblue; 
+    font-family: Arial;
+    font-size: 20px;
+}
+    h1{
+        color: beige;
+        background-color: rgb(118, 124, 124);
+    }
+
+    h2{
+        color: blueviolet;
+    }
+
+    p{
+        text-align: center;
+    }
